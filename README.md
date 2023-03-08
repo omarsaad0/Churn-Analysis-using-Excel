@@ -7,7 +7,8 @@ Some Insights
 
 Age, Males to Females
 
-![image](https://user-images.githubusercontent.com/76915795/223754941-3647e650-091a-41f2-adb3-6f3b4b29f199.png) ![image](https://user-images.githubusercontent.com/76915795/223753791-9f59b9b1-37a0-4769-8cf4-6ec34a6e6a10.png)
+![image](https://user-images.githubusercontent.com/76915795/223754941-3647e650-091a-41f2-adb3-6f3b4b29f199.png) ![image](https://user-images.githubusercontent.com/76915795/223755446-194278c7-dade-47b3-ac63-7fa47736448d.png)
+
 
 The distribution of age of the customers is nearly the same across all ranges. Also, an even distribution between males and females. 
 
