@@ -51,4 +51,29 @@ One third of churned customers due to competitors leaves due to better offers, 1
 
 ![image](https://user-images.githubusercontent.com/76915795/223758315-6f6aa574-9c67-4747-b530-9670a3d9c1da.png)
 
+We can summarize the top 6 reasons for churn. 
+
+![image](https://user-images.githubusercontent.com/76915795/223758585-e0e78096-42ec-4784-b52d-311d2dcf0155.png)
+
+### **Satisfaction Score**
+
+![image](https://user-images.githubusercontent.com/76915795/223758696-01ac68e4-faae-4218-bc12-c3d7b9e1be92.png)
+
+Customers who score 1 or 2 will definitely churn, while 16% of customers who scored 3 churned. So as long as the customer scores higher satisfaction score will most likely stay.
+
+### **Churn Score**
+
+![image](https://user-images.githubusercontent.com/76915795/223758943-3006be37-0e5c-4447-93cc-edb88ee77669.png)
+
+
+## Desining Dashboard 
+
+![image](https://user-images.githubusercontent.com/76915795/223759070-f301e9b6-5e97-44bd-9910-499809c94736.png)
+
+The churn rate in the company is 27%, 45% of them churned due to competitor reasons. And the top reason was because the competitor has better devices and better offers. 
+Speaking of offers 56% people churned when they didn’t receive an offer and as long as the offer is higher the customer will most likely stay in the company 
+We lost because of competitor reasons 1.7 millions compared to the 2nd top reason which is dissatisfaction with 0.58 million.
+We can see that the customer will be more likely to churn if have no dependents with 95% of churned customers were not having dependents. 
+Half of churned customers were in their first year with us while this % dropped to 15% after the second year.
+We could reduce the churn rate if we offered the new customers a better offer and included a better devices in our stores.
 
