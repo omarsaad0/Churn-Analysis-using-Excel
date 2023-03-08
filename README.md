@@ -19,6 +19,8 @@ Nearly Half of the customers are married with 48%. 77% of our customers have no 
 
 ### **Dependents vs. Churn**
 
+![image](https://user-images.githubusercontent.com/76915795/223757590-3cbf4088-40fe-443a-9a2d-94ba4758b9ea.png)
+
 Customers who have dependents are most likely to stay in the company. While 32% of customers who have no dependents churned.
 
 ### **Senior vs. Churn**
@@ -38,4 +40,15 @@ Customers who are seniors are most likely to churn.
 ![image](https://user-images.githubusercontent.com/76915795/223753971-6e257a5f-77bd-430f-ba8b-51c456a534b5.png)
 
 We can see that moving from offer A to offer E will increase the chance of the customer churn. Offer E has 52% churn rate 
+
+
+## Churn Reasons
+
+![image](https://user-images.githubusercontent.com/76915795/223758117-49cf7f22-a8c2-4bbe-ba13-a0b120ff2fa8.png)
+45 % of customers churned were due to the competitor.
+In each category there are detailed reasons, so let’s investigate the competitor category.
+One third of churned customers due to competitors leaves due to better offers, 1 third due to better devices and the rest due to more data and higher download speed. 
+
+![image](https://user-images.githubusercontent.com/76915795/223758315-6f6aa574-9c67-4747-b530-9670a3d9c1da.png)
+
 
