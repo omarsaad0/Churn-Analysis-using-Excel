@@ -5,18 +5,19 @@ Designing a Dashboard for Telecom Customer Churn Analysis using Excel
 
 Some Insights 
 
-**Age, Males to Females**
+**Customers Demographics**
 
 ![image](https://user-images.githubusercontent.com/76915795/223754941-3647e650-091a-41f2-adb3-6f3b4b29f199.png) ![image](https://user-images.githubusercontent.com/76915795/223755446-194278c7-dade-47b3-ac63-7fa47736448d.png)
 
 
 The distribution of age of the customers is nearly the same across all ranges. Also, an even distribution between males and females. 
 
-**Dependents vs. Churn**
 
 ![image](https://user-images.githubusercontent.com/76915795/223753851-640f42c6-c895-45e7-a1c6-0014ca8a733c.png) ![image](https://user-images.githubusercontent.com/76915795/223755147-49f37e3f-e7c4-462b-be0d-c1c1c72394cd.png)
 
 Nearly Half of the customers are married with 48%. 77% of our customers have no dependents while the rest is evenly distributed between having 1 or 2 or three or more dependents.
+
+**Dependents vs. Churn**
 
 Customers who have dependents are most likely to stay in the company. While 32% of customers who have no dependents churned.
 
